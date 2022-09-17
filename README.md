@@ -2,7 +2,7 @@
 - 👀 I’m interested in front end development
 - 🌱 I’m currently learning Javascript, CSS and HTML
 - 📫 How to reach me afm.arthur@gmail.com
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afmedeiros)
+
 
 <div align="left">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=afmedeiros&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true%22/%3E">
