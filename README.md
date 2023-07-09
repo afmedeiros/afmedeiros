@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arthur Medeiros @afmedeiros
 - 👀 I’m interested in front end development
-- 🌱 I’m currently learning Javascript, CSS and HTML
+- 🌱 I have skills in Javascript, CSS, HTML and currently learning React and SQL.
 - 📫 How to reach me afm.arthur@gmail.com
 
 
